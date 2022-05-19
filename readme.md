@@ -7,14 +7,14 @@ This demo gets the location ip,city from RaspberryPI and detects sealevel-riskfa
 Data to evaluate riskfactor taken from this link: https://firststreet.org/data-access/public-access/
 
 
-2.Installation library (from root folder)
+2.Installation library (from root folder):
     sudo apt-get update
     sudo apt-get install python3-pip
     sudo apt-get install python3-pil
     sudo pip3 install RPi.GPIO
     sudo pip3 install geocoder
 
-3. Preparing setup.py file (from root folder)
+3. Preparing setup.py file (from root folder):
     pip3 install -r requirements.txt
     pip3 install .
 
