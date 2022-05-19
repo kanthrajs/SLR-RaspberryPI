@@ -19,7 +19,5 @@ Data to evaluate riskfactor obtained here: https://firststreet.org/data-access/p
     pip3 install .
 
 ## 3. Basic use:
-Since this project is a comprehensive project, you may need to read the following for use:
-You can view the test program in the slr\ directory.
-
-      sudo python3 risk_factor.py
+    cd slr/
+    python3 risk_factor.py
