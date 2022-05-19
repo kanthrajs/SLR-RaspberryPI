@@ -16,9 +16,9 @@ Install from root folder of your project.
     
 
 ## 2. Preparing from setup.py file:
-    pip3 install -r requirements.txt
-    pip3 install .
+    sudo pip3 install -r requirements.txt
+    sudo pip3 install .
 
 ## 3. Basic use:
     cd slr/
-    python3 risk_factor.py
+    sudo python3 risk_factor.py
